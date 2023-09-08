@@ -1,0 +1,15 @@
+// let x = 5;
+// for (let i = 0; i < x; i++) {
+//     console.log(i);
+// }
+
+// for(let i = 1; i <== 100; i++) {
+//     if ()
+// }
+
+
+var myName = "Joseph";
+
+for (let i = 0; i < 5; i++) {
+    console.log(myName);
+}
